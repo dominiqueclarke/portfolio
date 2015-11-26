@@ -1,0 +1,310 @@
+/*=====================================
+=            Layout Styles            =
+=====================================*/
+
+/**
+ * Container
+ */
+
+.container {
+  max-width: $container-width;
+
+  padding: {
+    left: $gutter-padding;
+    right: $gutter-padding;
+  };
+
+  margin: {
+    left: auto;
+    right: auto;
+  };
+}
+
+.hr {
+  display: block;
+  width: 60px;
+  height: 3px;
+  background-color: $primary-color;
+  margin: 3em auto;
+  border: none;
+}
+
+.btn {
+  text-decoration:none;
+  text-align:center;
+  text-transform:uppercase;
+  color:#69626D;
+  font-family:'Oswald', sans-serif;
+  font-size:1.1em;
+  display:block;
+  padding:5px;
+  border:2px solid #69626D;
+  width:150px;
+  margin:10px auto;
+
+  &:hover,
+  &:active {
+    background-color:white;
+    transition: all .5s ease-in-out;
+  }
+}
+
+.pagination {
+  @extend %clearfix;
+
+  text-align: center;
+  margin: 2em 0;
+
+  li {
+    padding: 0 .4em;
+  }
+
+  li, a, span {
+    display: inline-block;
+  }
+
+  a, span {
+    line-height: 1.2em;
+    font-size: .7em;
+  }
+
+  a {}
+
+  span {
+    color: $primary-color;
+    font-style: italic;
+  }
+}
+
+/**
+ * Site Header
+ */
+
+.site-header {
+  h1 {
+    margin-top: 1em;
+
+    small {
+      display: block;
+      color: $primary-color;
+    }
+  }
+}
+
+.namecontainer {
+    position:relative;
+    font-family: Playfair Display;
+    font-style:italic;
+    text-align:center;
+    color:#62bb93;
+    padding:10% 0 0 0;
+    background-image:url('../../images/Phillyskyline.svg');
+    background-repeat:no-repeat;
+    background-position:center 140%;
+}
+
+h1.name {
+    position:relative;
+    z-index:2;
+    margin-bottom:0;
+    font-size:6em;
+}
+
+.author-thumb {
+  opacity: .7;
+  display: inline-block;
+  transition: opacity .2s ease;
+
+  img {
+    width: 100px;
+    display: inline;
+    margin: 0;
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    opacity: .9;
+  }
+}
+
+.navbar {
+  margin: {
+    top: 1.4em;
+    bottom: 1.4em;
+  };
+
+  li {
+    display: inline-block;
+  }
+
+  a {
+    font-size: 14px;
+    text-decoration: none;
+    color: $primary-color;
+  }
+
+  .divider {
+    padding-left: .6em;
+    padding-right: .6em;
+  }
+
+  .btn {
+    color: #fff;
+    font-weight: 400;
+    line-height: 2em;
+    padding: 0 1em;
+  }
+}
+
+/**
+*bio 
+*/
+
+.about {
+    display:block;
+    width:80px;
+    padding:5px 5px;
+    text-align:center;
+    margin:0 auto;
+    font-family:'Oswald', sans-serif;
+    text-transform:uppercase;
+    border:3px solid rgba(255,255,255,1);
+}
+
+.about.active {
+    border-top:3px solid rgba(255,255,255,0);
+    border-right:3px solid rgba(255,255,255,0);
+    border-left:3px solid rgba(255,255,255,0);
+    transition:all 1s ease-in-out;
+    -webkit-transition:all 1s ease-in-out;
+    -moz-transition:all 1s ease-in-out;
+}
+
+.bio {
+    display:block;
+    width:70%;
+    margin:2% auto;
+    position:relative;
+    opacity:0;
+    font-family:'Oswald';
+    letter-spacing:1px;
+    text-align:center;
+}
+
+.bio a {
+    color:#69626D;
+    text-decoration:none;
+    border-bottom:1px solid #62bb93;
+}
+
+.bio.active {
+    opacity:1;
+    transition: all .5s ease-in-out;
+}
+
+/**
+ * .posts
+ */
+
+.post {
+  margin: 3em 0;
+
+  h1 {
+    margin-bottom: .3em;
+  }
+
+  .post-meta {
+    font-style: italic;
+    color: #aaa;
+  }
+
+  &:after {
+    content: '';
+
+    @extend .hr;
+  }
+}
+
+.posts {
+  .post {
+    h1 {
+      font-size: 1.4rem;
+    }
+  }
+}
+
+.read-more {
+  font-size: 1rem;
+  padding: 0 .8em;
+}
+
+.site-footer {
+  padding: 1.6em 0 2em;
+  margin-top: 1.5em;
+
+  small {
+    color: $primary-color;
+    font-size: .8em;
+    display: block;
+  }
+}
+
+.share {
+  padding: 1.2em 0 0;
+  width: 100%;
+  text-align: right;
+
+  span, a {
+    display: inline-block;
+    color: #787878;
+    text-decoration: none;
+    padding-left: 5px;
+  }
+}
+
+.social {
+  text-align: center;
+  margin: 2em 0;
+
+  li {
+    display: inline-block;
+    padding: 0 .6em;
+  }
+
+  a {
+    color: #999;
+    text-decoration: none;
+    font-size: 1.2em;
+  }
+}
+
+.github-corner {
+  &:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out;
+  }
+}
+
+@keyframes octocat-wave {
+  0%,100% {
+    transform: rotate(0);
+  }
+
+  20%,60% {
+    transform: rotate(-25deg);
+  }
+
+  40%,80% {
+    transform: rotate(10deg);
+  }
+}
+
+@media (max-width: 500px) {
+  .github-corner:hover .octo-arm {
+    animation: none;
+  }
+
+  .github-corner .octo-arm {
+    animation: octocat-wave 560ms ease-in-out;
+  }
+}
