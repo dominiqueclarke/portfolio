@@ -20,7 +20,7 @@ email: dominiquedclarke@gmail.com
 baseurl: # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com"
 url: "http://dominiqueclarke.github.io/portfolio/"
-repository: "https://github.com/dominiqueclarke"
+repository: "https://github.com/dominiqueclarke/portfolio"
 disqus_shortname: 
 google_analytics: 
 
