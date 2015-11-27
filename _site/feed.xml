@@ -5,8 +5,13 @@
     <description>Junior Front-end Developer</description>
     <link>http://dominiqueclarke.github.io/portfolio//</link>
     <atom:link href="http://dominiqueclarke.github.io/portfolio//feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Thu, 26 Nov 2015 20:56:22 -0500</pubDate>
     <lastBuildDate>Thu, 26 Nov 2015 20:56:22 -0500</lastBuildDate>
+=======
+    <pubDate>Thu, 26 Nov 2015 19:58:49 -0500</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2015 19:58:49 -0500</lastBuildDate>
+>>>>>>> parent of a012e7e... Building responsive changes
     <generator>Jekyll v2.5.3</generator>
     
   </channel>
