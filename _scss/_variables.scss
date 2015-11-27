@@ -2,13 +2,16 @@
 //=            Variables          =
 //=================================
 
-$primary-color: #fff !default;
-$accent-color: #9566bc !default;
 $black-color: #000 !default;
 $silver-color: #eee !default;
 $white-color: #fff !default;
+$dark-green: #62BB93 !default;
+$light-green: #b8e0ce !default;
+$purple-color: #8158A3 !default;
+$primary-color: #fff !default;
+$accent-color: $purple-color !default;
 
-$bg-color: #b8e0ce !default;
+$bg-color: $light-green !default;
 $txt-color: rgba($black-color, .9) !default;
 
 $font-family-base: "Lora", Helvetica, sans-serif !default;
