@@ -20,6 +20,10 @@
   };
 }
 
+.container.lg {
+  max-width: $lgcontainer-width;
+}
+
 .hr {
   display: block;
   width: 60px;
