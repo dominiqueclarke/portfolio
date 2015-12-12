@@ -7,10 +7,17 @@
 }
 
 .chromewindow {
-	float: right;
     border-radius: 10px;
     width:68%;
     height:auto;
+}
+
+.chromewindow.right {
+    float:right;
+}
+
+.chromewindow.left {
+    float:left
 }
 
 @media screen and (max-width:1000px) {
