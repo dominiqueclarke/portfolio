@@ -1,0 +1,120 @@
+//Twitter
+
+.tweetcontainer {
+	padding:1.5em;
+	margin:2em auto;
+	text-align:center;
+	background: linear-gradient(
+      rgba($purple-color, .8), 
+      rgba($purple-color, .8)
+    ), url(../images/twitterbg.jpeg);
+  	background-size: 100% 100%;
+  	color:$white-color;
+	h2 {
+		text-transform:uppercase;
+		text-shadow:1px 1px $dark-green;
+	}
+}
+
+div.pinline {
+  text-align: center;
+  display: block;
+  overflow: hidden;
+  font-size: 1em;
+  font-weight: 100;
+  margin: 20px 0;
+  font-weight: 700;
+
+  span {
+    position: relative;
+    display: inline-block;
+    line-height: 1;
+    svg {
+    	fill:$dark-green;
+    }
+    &:before, &:after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      height: 1px;
+//    background-image: linear-gradient (90deg,rgba(255,255,255,.05) 50%, rgba(255,255,255,0) 50%);
+      background-color:$dark-green;
+//    background-size:500px;
+      width: 300px;
+    }
+    &:before {
+      left: 100%;
+      margin-left: 20px;
+   }
+    &:after {
+      right: 100%;
+      margin-right: 20px;
+    }
+  }
+}
+
+#twitterFetcher {
+	width:80%;
+	margin:0 auto;
+
+	p {
+		margin-bottom:0;
+		text-shadow: 1px 1px $dark-green;
+	}
+
+	li {
+		margin-bottom:1em;
+	}
+
+	a {
+		color:$white-color;
+	}
+
+	img {
+		display:none;
+	}
+}
+
+.tweet {
+	font-family: "Playfair Display", serif;
+	font-size:1.5em;
+}
+
+.interact a, .timePosted a {
+	border-bottom:none;
+	text-decoration:none;
+}
+
+.interact a:hover, .timePosted a:hover {
+	background-color:transparent;
+}
+
+.twitter_reply_icon, .twitter_retweet_icon, .twitter_fav_icon {
+    font-size:0px;
+    display: inline-block;
+    text-align: center;
+    padding:4px;
+    width:20px;
+}
+
+.twitter_reply_icon:before, .twitter_retweet_icon:before, .twitter_fav_icon:before {
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 0.5em;
+}
+
+.twitter_reply_icon:before {
+    content: '\f112';
+}
+
+.twitter_retweet_icon:before {
+    content: '\f079';
+}
+
+.twitter_fav_icon:before {
+    content: '\f005';
+}
+

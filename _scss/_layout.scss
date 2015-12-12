@@ -34,12 +34,11 @@
   text-align:center;
   text-transform:uppercase;
   color:$purple-color;
-  font-family:'Oswald', sans-serif;
   font-size:1.1em;
-  display:block;
+  display:inline;
   padding:5px;
   border:2px solid $purple-color;
-  width:150px;
+  width:auto;
   margin:10px auto;
 
   &:hover,
@@ -47,6 +46,11 @@
     background-color:white;
     transition: all .5s ease-in-out;
   }
+}
+
+.btn.inverse {
+  color:$dark-green;
+  border:2px solid $dark-green;
 }
 
 .pagination {
@@ -110,6 +114,7 @@ h1.name {
     font-size:6em;
 }
 
+//Not currently in use
 .author-thumb {
   opacity: .7;
   display: inline-block;
@@ -128,6 +133,7 @@ h1.name {
   }
 }
 
+//not currently in use
 .navbar {
   margin: {
     top: 1.4em;
@@ -166,7 +172,6 @@ h1.name {
     padding:5px 5px;
     text-align:center;
     margin:1em auto;
-    font-family:'Oswald', sans-serif;
     text-transform:uppercase;
     border-bottom:3px solid rgba(255,255,255,1);
     border-right:3px solid $light-green;
@@ -186,7 +191,6 @@ h1.name {
     display:block;
     margin:2em auto;
     position:relative;
-    font-family:'Oswald';
     letter-spacing:1px;
     text-align:center;
 }
@@ -196,6 +200,7 @@ h1.name {
     transition: all .5s ease-in-out;
 }
 
+//Not currently in use
 /**
  * .posts
  */
@@ -233,9 +238,6 @@ h1.name {
 }
 
 .site-footer {
-  padding: 1.6em 0 2em;
-  margin-top: 1.5em;
-
   small {
     color: $primary-color;
     font-size: .8em;
@@ -258,7 +260,7 @@ h1.name {
 
 .social {
   text-align: center;
-  margin: 2em 0;
+  margin-bottom:2em;
 
   li {
     display: inline-block;

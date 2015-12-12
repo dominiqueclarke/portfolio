@@ -7,18 +7,26 @@
   <body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">
 
   <div class="page">
-    <main class="container">
+    <main>
+      <div class="container">
 
         {% include header.html %}
 
         {% include bio.html    %}
+      </div>
 
+      <div class="tweetcontainer">
+        {% include twitter.html %}
+      </div>
+
+      <div class="container">
         <section class="main-content">
           {{ content }}
         </section>
 
         {% include footer.html %}
 
+      </div>
     </main>
   </div>
 
