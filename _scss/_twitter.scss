@@ -14,6 +14,10 @@
 		text-transform:uppercase;
 		text-shadow:1px 1px $dark-green;
 	}
+
+	@media (max-width:1400px) {
+		background-size:cover;
+	}
 }
 
 div.pinline {
@@ -78,7 +82,7 @@ div.pinline {
 	font-family: "Playfair Display", serif;
 	font-size:1.5em;
 	text-shadow: 1px 1px $black-color;
-
+	overflow-wrap:break-word;
 }
 
 .interact a {

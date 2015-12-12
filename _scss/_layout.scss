@@ -304,7 +304,7 @@ h1.name {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .github-corner:hover .octo-arm {
     animation: none;
   }
@@ -316,6 +316,7 @@ h1.name {
   .namecontainer {
     width:100%;
     background-size:cover;
+    background-position:0% 0%;
   }
 
   h1.name {
