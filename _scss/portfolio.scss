@@ -1,17 +1,19 @@
 //Portfolio pieces
 .chromewindow {
 	float: right;
-    background-color: grey;
     padding: 0 10px 10px;
     margin: 20px;
     border-radius: 10px;
 }
 
-.chromebuttons {
+.topbutton {
 	height: 30px;
     border: 1px solid purple;
-    border-radius: 25px;
-    margin:5px 11px;
+    border-radius: 5px 5px 0 0;
+}
+
+.chromebuttons {
+	margin:5px 11px;
 }
 
 .redbutton {
