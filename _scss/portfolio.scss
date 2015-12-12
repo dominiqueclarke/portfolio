@@ -3,6 +3,12 @@
 	float: right;
     margin: 20px;
     border-radius: 10px;
+    width:800px;
+    height:auto;
+
+    @media (maxwidth:1000px) {
+    	float:none;
+    }
 }
 
 .topbar {
@@ -13,21 +19,28 @@
 }
 
 .chromebuttons {
-	margin:5px 11px;
+	margin-right: 5px;
+}
+
+.redbutton, .yellowbutton, .greenbutton {
+	display:inline-block;
+	width:8px;
+	height:8px;
+	border-radius:50%;
 }
 
 .redbutton {
-	display:inline-block;
-	width:8px;
-	height:8px;
 	background-color:red;
-	border-radius:50%;
 }
 
 .yellowbutton {
-	display:inline-block;
-	width:8px;
-	height:8px;
 	background-color:yellow;
-	border-radius:50%;
+}
+
+.greenbutton {
+	background-color:green;
+}
+
+img.portfolio {
+	border-radius: 0 0 5px 5px;
 }
