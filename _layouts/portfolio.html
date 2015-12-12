@@ -5,20 +5,21 @@
 
   </head>
   <body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">
+  	<div class="page">
+	    <main>
+	    <div class="container">
 
-    <main>
-    <div class="container">
+	        {% include header.html %}
+	    </div>
+	    <div class="container lg">
+	        {% include dloot.html    %}
+	    </div>
+	    <div class="container">
 
-        {% include header.html %}
-    </div>
-    <div class="container lg">
-        {% include dloot.html    %}
-    </div>
-    <div class="container">
-
-        {% include footer.html %}
-    </div>
-    </main>
+	        {% include footer.html %}
+	    </div>
+	    </main>
+	</div>
 
     {% include github-corner.html %}
   </body>
