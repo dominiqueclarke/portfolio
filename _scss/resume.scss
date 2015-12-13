@@ -12,7 +12,7 @@
 	}
 }
 
-.resume ul {
+.resume .post-content ul {
 	margin:1em 1em 1em 0;
 	li:before {
     	content: '\2022 ';
@@ -22,8 +22,4 @@
 	p {
 		display:inline;
 	}
-}
-
-.resume .social li:before {
-	display:none;
 }
