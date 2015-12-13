@@ -13,14 +13,10 @@ bodyclass: resume
 		    <div class="container">
 		        {% include portfolioheader.html %}
 		    </div>
-		    <div class="container lg">
-		    	<div class="work">
-		        {% include dloot.html    %}
-		        {% include uhuru.html    %}
-		        {% include nerd.html    %}
-		        {% include allin.html   %}
-		        {% include blog.html    %}
-		    	</div>
+			<div class="container lg">
+				<div class="post-content">
+			    {{ content }}
+			  	</div>
 		    </div>
 		    <div class="container">
 		        {% include footer.html %}
