@@ -7,22 +7,20 @@
   <body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">
   	<div class="page">
 	    <main>
-	    <div class="container">
+		    <div class="container">
+		        {% include header.html %}
+		    </div>
+		    <div class="container lg">
+		    	<div class="work">
+		        {% include dloot.html    %}
+		    	</div>
+		    </div>
+		    <div class="container">
 
-	        {% include header.html %}
-	    </div>
-	    <div class="container lg">
-	    	<div class="work">
-	        {% include dloot.html    %}
-	    	</div>
-	    </div>
-	    <div class="container">
-
-	        {% include footer.html %}
-	    </div>
+		        {% include footer.html %}
+		    </div>
 	    </main>
-	</div>
-
     {% include github-corner.html %}
+    </div>
   </body>
 </html>
