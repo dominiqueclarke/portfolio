@@ -138,7 +138,6 @@ h1.name {
   }
 }
 
-//not currently in use
 .navbar {
   margin: {
     top: 1.4em;
@@ -151,12 +150,12 @@ h1.name {
   a {
     font-size: 14px;
     text-decoration: none;
-    color: $primary-color;
   }
 
   .divider {
     padding-left: .6em;
     padding-right: .6em;
+    color:$dark-green;
   }
 
   .btn {
