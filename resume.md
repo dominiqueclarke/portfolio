@@ -3,8 +3,7 @@ layout: resume
 title: Resume
 permalink: /resume/
 ---
-WORK EXPERIENCE
-=====
+## WORK EXPERIENCE
 
 ### COMMUNITY ENGAGEMENT MANAGER, JULY 2015 - PRESENT
 
@@ -16,7 +15,7 @@ WORK EXPERIENCE
 
 * Plan and host tech meetups for Wilmington's community of learners
 
-### CO-ORGANIZER AND TEACHER, SEPT 2015 - PRESENT
+### CO-ORGANIZER AND TEACHER, SEPT. 2015 - PRESENT
 
 #### [GIRL DEVELOP IT WILMINGTON](https://www.girldevelopit.com/chapters/wilmington) | WILMINGTON, DE
 
@@ -24,7 +23,7 @@ WORK EXPERIENCE
 
 * Teach Intro to Web Concepts to a class of 25 adult women 
 
-### CO-ORGANIZER, JULY 2015 - NOV 2015
+### CO-ORGANIZER, JULY 2015 - NOV. 2015
 
 #### [ELA CONF](http://elaconf.com/) | PHILADELPHIA, PA
 
@@ -81,6 +80,20 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 * Create print content for Center City East, Center City West and Fishtown/Northern Liberties sections of the Campus Philly's Student Insider Guide, distributed at over 25 area colleges to 80,000 students
 
 * Write web content designed to promote Philly as an ideal place to live, study and work, including blog posts, event round-ups and business profiles
+
+## SPEAKING ENGAGEMENTS
+
+### PANLIST, WOMEN INNOVATORS IN DELAWARE, NOV. 2015
+
+#### DELAWARE INNOVATION WEEK | [READ MORE](http://technical.ly/delaware/2015/11/17/diw15-innovators-panel-shares-10-local-resources-to-get-more-women-in-tech/)
+
+### INTRO TO WEB CONCEPTS, 2 HOUR LECTURE, OCT. 2015
+
+#### GIRL DEVELOP IT WILMINGTON | [READ MORE](http://technical.ly/delaware/2015/10/30/inside-girl-develop-it-wilmingtons-first-class/)
+
+### INTRO TO WEB CONCEPTS, 50 MINUTE LECTURE, SEPT. 2015
+
+#### WOMEN IN MEIDA SUMMIT
 
 ## EDUCATION
 
