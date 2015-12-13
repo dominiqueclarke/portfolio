@@ -4,10 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 <div class="resumeintro">
-<h2>DOMINIQUE CLARKE | JUNIOR FRONT-END DEVELOPER</h2>
-<a class="btn" href="{{ "work" | prepend: site.baseurl }}">View my portfolio</a>
-</br>
-<a class="contact btn" href="mailto:dominiquedclarke@gmail.com">CONTACT ME</a>
+	<h2>DOMINIQUE CLARKE | JUNIOR FRONT-END DEVELOPER</h2>
+	<a class="btn" href="{{ "work" | prepend: site.baseurl }}">View my portfolio</a>
+	</br>
+	<a class="contact btn" href="mailto:dominiquedclarke@gmail.com">CONTACT ME</a>
 </div>
 
 ## WORK EXPERIENCE
