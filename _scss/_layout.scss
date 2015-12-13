@@ -20,6 +20,10 @@
   };
 }
 
+.container.lg {
+  max-width: $lgcontainer-width;
+}
+
 .hr {
   display: block;
   width: 60px;
@@ -33,13 +37,12 @@
   text-decoration:none;
   text-align:center;
   text-transform:uppercase;
-  color:#69626D;
-  font-family:'Oswald', sans-serif;
+  color:$purple-color;
   font-size:1.1em;
-  display:block;
+  display:inline-block;
   padding:5px;
-  border:2px solid #69626D;
-  width:150px;
+  border:2px solid $purple-color;
+  width:auto;
   margin:10px auto;
 
   &:hover,
@@ -47,6 +50,11 @@
     background-color:white;
     transition: all .5s ease-in-out;
   }
+}
+
+.btn.inverse {
+  color:$dark-green;
+  border:2px solid $dark-green;
 }
 
 .pagination {
@@ -98,7 +106,8 @@
     text-align:center;
     color:#62bb93;
     padding:10% 0 0 0;
-    background-image:url('../../images/Phillyskyline.svg');
+    margin-bottom:2em;
+    background-image:url('http://dominiqueclarke.github.io/portfolio/images/Phillyskyline.svg');
     background-repeat:no-repeat;
     background-position:center 140%;
 }
@@ -110,6 +119,7 @@ h1.name {
     font-size:6em;
 }
 
+//Not currently in use
 .author-thumb {
   opacity: .7;
   display: inline-block;
@@ -131,7 +141,6 @@ h1.name {
 .navbar {
   margin: {
     top: 1.4em;
-    bottom: 1.4em;
   };
 
   li {
@@ -141,12 +150,12 @@ h1.name {
   a {
     font-size: 14px;
     text-decoration: none;
-    color: $primary-color;
   }
 
   .divider {
     padding-left: .6em;
     padding-right: .6em;
+    color:$dark-green;
   }
 
   .btn {
@@ -166,10 +175,11 @@ h1.name {
     width:80px;
     padding:5px 5px;
     text-align:center;
-    margin:0 auto;
-    font-family:'Oswald', sans-serif;
+    margin:1em auto;
     text-transform:uppercase;
-    border:3px solid rgba(255,255,255,1);
+    border-bottom:3px solid rgba(255,255,255,1);
+    border-right:3px solid $light-green;
+    border-left:3px solid $light-green;
 }
 
 .about.active {
@@ -183,19 +193,10 @@ h1.name {
 
 .bio {
     display:block;
-    width:70%;
-    margin:2% auto;
+    margin:2em auto;
     position:relative;
-    opacity:0;
-    font-family:'Oswald';
     letter-spacing:1px;
     text-align:center;
-}
-
-.bio a {
-    color:#69626D;
-    text-decoration:none;
-    border-bottom:1px solid #62bb93;
 }
 
 .bio.active {
@@ -203,6 +204,7 @@ h1.name {
     transition: all .5s ease-in-out;
 }
 
+//Not currently in use
 /**
  * .posts
  */
@@ -240,9 +242,6 @@ h1.name {
 }
 
 .site-footer {
-  padding: 1.6em 0 2em;
-  margin-top: 1.5em;
-
   small {
     color: $primary-color;
     font-size: .8em;
@@ -265,7 +264,7 @@ h1.name {
 
 .social {
   text-align: center;
-  margin: 2em 0;
+  margin-bottom:2em;
 
   li {
     display: inline-block;
@@ -273,10 +272,16 @@ h1.name {
   }
 
   a {
-    color: #999;
+    color: $dark-green;
     text-decoration: none;
+    border-bottom:none;
     font-size: 1.2em;
+
+    &:hover {
+      background-color: transparent;
+    }
   }
+
 }
 
 .github-corner {
@@ -299,12 +304,22 @@ h1.name {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .github-corner:hover .octo-arm {
     animation: none;
   }
 
   .github-corner .octo-arm {
     animation: octocat-wave 560ms ease-in-out;
+  }
+
+  .namecontainer {
+    width:100%;
+    background-size:cover;
+    background-position:0% 0%;
+  }
+
+  h1.name {
+    font-size:3em;
   }
 }

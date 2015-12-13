@@ -17,27 +17,23 @@ sass:
 title: Dominique Clarke
 description: Junior Front-end Developer
 email: dominiquedclarke@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://yourdomain.com"
-url: "http://nandomoreira.me/lora"
-repository: "https://github.com/nandomoreirame/lora"
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+baseurl: "/portfolio/"
+url: "http://dominiqueclarke.github.io"
+repository: "https://github.com/dominiqueclarke"
+disqus_shortname: 
+google_analytics: 
 
 # social footer
 social:
   github:
     slug: github
-    link: http://github.com/nandomoreirame
+    link: http://github.com/dominiqueclarke
   facebook:
     slug: facebook
-    link: http://facebook.com/fernando.dev
+    link: http://facebook.com/waydiesel
   twitter:
     slug: twitter
-    link: http://twitter.com/nandomoreirame
-  instagram:
-    slug: instagram
-    link: http://instagram.com/nandomoreira.me
+    link: http://twitter.com/deeclarkesays
   linkedin:
     slug: linkedin
-    link: http://linkedin.com/in/nandomoreirame
+    link: http://linkedin.com/in/dominiqueclarke

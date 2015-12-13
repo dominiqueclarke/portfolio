@@ -2,16 +2,20 @@
 //=            Variables          =
 //=================================
 
-$primary-color: #fff !default;
-$accent-color: #9566bc !default;
 $black-color: #000 !default;
 $silver-color: #eee !default;
 $white-color: #fff !default;
+$dark-green: #62BB93 !default;
+$light-green: #b8e0ce !default;
+$purple-color: #8158A3 !default;
+$primary-color: #fff !default;
+$accent-color: $purple-color !default;
 
-$bg-color: #b8e0ce !default;
+$bg-color: $light-green !default;
 $txt-color: rgba($black-color, .9) !default;
 
-$font-family-base: "Lora", Helvetica, sans-serif !default;
+$font-family-base: "Roboto", Helvetica, sans-serif !default;
+$font-family-accent: "Playfair Display", serif !default;
 $font-size-base: 18px !default;
 $line-height-base: 1.6 !default;
 $font-weight-base: 400 !default;
@@ -21,7 +25,8 @@ $link-color: $accent-color !default;
 $link-hover-color: darken($link-color, 10%) !default;
 
 $default-feature: min-width !default;
-$container-width: 38em !default;
+$container-width: 40em !default;
+$lgcontainer-width: 75em !default;
 $gutter-width: 30px !default;
 $gutter-padding: ($gutter-width / 2) !default;
 

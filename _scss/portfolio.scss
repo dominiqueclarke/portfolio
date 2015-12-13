@@ -1,0 +1,152 @@
+//Portfolio pieces
+
+.work {
+    margin-top:2em;
+    margin-bottom:2em;
+    overflow:auto;
+}
+
+.singlepiece.right.chrome {
+    float:right;
+    max-width:68%;
+}
+
+.singlepiece.chrome.left {
+    float:left;
+    max-width:68%;
+}
+
+.singlepiece.left.iphone {
+    float:left;
+    max-width:25em;
+}
+
+img.portfolio {
+	border-radius: 0 0 5px 5px;
+    width:100%;
+    height:100%;
+}
+
+.portfoliodesc {
+    width:30%;
+    display:inline-block;
+    margin-right:1em;
+}
+
+.portfoliodesc.right {
+    margin-left:1em;
+}
+
+.portfoliodesc.right.iphone {
+    max-width:68%;
+    width:auto;
+}
+
+//iphone 
+.iphone-body {
+    position: relative;
+    background: #fff;
+    height: 50em;
+    width: 100%;
+    border-radius: 40px;
+    box-shadow: 0 6px 0px 0 $purple-color;
+}
+
+.iphone-body:before {
+    content: "";
+    display: block;
+    position: relative;
+    top: 36px;
+    background: #e7ebec;
+    height: 6px;
+    width: 60px;
+    border-radius: 6px;
+    margin: 0 auto;
+}
+
+.iphone-body:after {
+    content: "";
+    display: block;
+    position: relative;
+    top: 86px;
+    background: none;
+    height: 34px;
+    width: 34px;
+    border: 6px solid #e7ebec;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.camera-1 {
+    position: absolute;
+    background: #e7ebec;
+    height: 8px;
+    width: 8px;
+    border-radius: 8px;
+    margin: 12px 0 0 146px;
+}
+
+.camera-2 {
+    position: absolute;
+    background: #e7ebec;
+    height: 10px;
+    width: 10px;
+    border-radius: 10px;
+    margin: 28px 0 0 90px;
+}
+
+.iphone-screen {
+    position: relative;
+    top: 70px;
+    background: #fff/*#f5f7f8*/;
+    height: 85%;
+    width: 90%;
+    margin: 0 auto;
+    border: 4px solid #e7ebec;
+    border-radius: 4px;
+}
+
+//chrome window
+.chromewindow {
+    border-radius: 10px;
+    width:100%;
+    height:auto;
+    box-shadow: 0 6px 0px 0 $purple-color;
+}
+
+.topbar {
+    height: 30px;
+    border-radius: 5px 5px 0 0;
+    background-color:#E2E2E1;
+}
+
+.chromebuttons {
+    margin-left:5px;
+}
+
+.redbutton, .yellowbutton, .greenbutton {
+    display:inline-block;
+    width:8px;
+    height:8px;
+    border-radius:50%;
+}
+
+.redbutton {
+    background-color:red;
+}
+
+.yellowbutton {
+    background-color:yellow;
+}
+
+.greenbutton {
+    background-color:green;
+}
+
+@media screen and (max-width:1000px) {
+    .singlepiece.chrome.right, .singlepiece.chrome.left, .singlepiece.iphone.left {
+        float:none;
+        max-width:100%;
+        margin:0 auto;
+    }
+}
