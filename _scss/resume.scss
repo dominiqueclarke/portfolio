@@ -9,13 +9,13 @@
 }
 
 .resume ul {
-	margin-left:1em;
+	margin-left:1em 1em 1em 0;
 	li:before {
     	content: '\2022 ';
     	color: $dark-green;
     	padding-right: 0.5em
 	}
 	p {
-		display:inline-block;
+		display:inline;
 	}
 }
