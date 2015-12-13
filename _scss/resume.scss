@@ -3,3 +3,12 @@
 		color:$purple-color;
 	}
 }
+
+.resume ul {
+	margin-left:1em;
+	li:before {
+    	content: '\2022 ';
+    	color: $dark-green;
+    	padding-right: 0.5em
+	}
+}
