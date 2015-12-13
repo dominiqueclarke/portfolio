@@ -18,7 +18,7 @@
 img.portfolio {
 	border-radius: 0 0 5px 5px;
     width:100%;
-    height:auto;
+    height:100%;
 }
 
 .portfoliodesc {
@@ -29,8 +29,8 @@ img.portfolio {
 .iphone-body {
     position: relative;
     background: $white-color;
-    height: 600px;
-    width: 300px;
+    width: 100%;
+    height: 50em;
     border-radius: 40px;
     box-shadow: 0 6px 0px 0 #9999cc;
 }
@@ -41,7 +41,7 @@ img.portfolio {
     position: relative;
     top: 36px;
     background: #e7ebec;
-    height: 6px;
+    height: 700px;
     width: 60px;
     border-radius: 6px;
     margin: 0 auto;
@@ -82,8 +82,8 @@ img.portfolio {
     position: relative;
     top: 70px;
     background: #fff/*#f5f7f8*/;
-    height: 440px;
-    width: 272px;
+    height: 90%;
+    width: 85%;
     margin: 0 auto;
     border: 4px solid #e7ebec;
     border-radius: 4px;
@@ -151,7 +151,7 @@ img.portfolio {
 }
 
 @media screen and (max-width:1000px) {
-    .singlepiece {
+    .singlepiece.right.chrome {
         float:none;
         width:100%;
         margin:0 auto;
