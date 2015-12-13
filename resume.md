@@ -55,15 +55,20 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 ## EDUCATION
 
 ### BACHELORS OF ARTS IN SOCIOLOGY, SEPT. 2010 – MAY 2014
+
 #### UNNIVERSITY OF PENNSYLVANIA | PHILADELPHIA, PA
 
 ### ADDITIONAL COURSEWORK
 
 #### Girl Develop It - Intermediate HTML & CSS
+
 #### Girl Develop It - Intro to Digital Project Management
+
 #### Girl Develop It - Building Wordpress Themes
+
 #### Girl Develop It - Building HTML Newsletters
+
 #### Philly Chi - Content Strategy 101
+
 #### Girl Develop It - Digital Project Mgmt
 
-####
