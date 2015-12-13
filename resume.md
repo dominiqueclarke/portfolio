@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: resume
 title: Resume
 permalink: /resume/
 ---
@@ -36,7 +36,7 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 ### WEB MARKETING INTERN, JULY 2012 - DEC. 2012
 
-#### VISIT PHILADELPHIA | PHILADELPHIA,PA
+#### VISIT PHILADELPHIA | PHILADELPHIA, PA
 
 * Create a variety of written copy destined for GPTMC’s web and social media properties
 
@@ -58,17 +58,17 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 #### UNNIVERSITY OF PENNSYLVANIA | PHILADELPHIA, PA
 
-### ADDITIONAL COURSEWORK
+#### ADDITIONAL COURSEWORK
 
-#### Girl Develop It - Intermediate HTML & CSS
+Girl Develop It - Intermediate HTML & CSS
 
-#### Girl Develop It - Intro to Digital Project Management
+Girl Develop It - Intro to Digital Project Management
 
-#### Girl Develop It - Building Wordpress Themes
+Girl Develop It - Building Wordpress Themes
 
-#### Girl Develop It - Building HTML Newsletters
+Girl Develop It - Building HTML Newsletters
 
-#### Philly Chi - Content Strategy 101
+Philly Chi - Content Strategy 101
 
-#### Girl Develop It - Digital Project Mgmt
+Girl Develop It - Digital Project Mgmt
 
