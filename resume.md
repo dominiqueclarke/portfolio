@@ -5,7 +5,8 @@ permalink: /resume/
 ---
 <div class="resumeintro">
 <h2>DOMINIQUE CLARKE | JUNIOR FRONT-END DEVELOPER</h2>
-<a class="btn">View my portfolio</a>
+<a class="btn" href="work">View my portfolio</a>
+<a class="contact btn">CONTACT ME</a>
 </div>
 
 ## WORK EXPERIENCE
@@ -127,7 +128,4 @@ Girl Develop It - Intro to Web Concepts
 Skillcrush - Freelance Wordpress Developer Course
 
 Philly Chi - Content Strategy 101
-
-<a class="contact btn">CONTACT ME</a>
-
 
