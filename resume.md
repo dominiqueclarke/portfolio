@@ -44,9 +44,9 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 * Research and monitor trends within the travel industry for GPTMC’s upcoming projects
 
-## LOCAL NEWS & EVENTS EDITOR, JAN. 2012 - APRIL 2012
+### LOCAL NEWS & EVENTS EDITOR, JAN. 2012 - APRIL 2012
 
-### CAMPUS PHILLY | PHILADELPHIA,PA
+#### CAMPUS PHILLY | PHILADELPHIA,PA
 
 * Write web content designed to promote Philly as an ideal place to live, study and work, including blog posts, event round-ups and business profiles
 
