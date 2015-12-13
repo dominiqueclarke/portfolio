@@ -11,6 +11,11 @@
     max-width:68%;
 }
 
+.singlepiece.right.left {
+    float:left;
+    max-width:68%;
+}
+
 .singlepiece.left.iphone {
     float:left;
     max-width:25em;
@@ -98,14 +103,6 @@ img.portfolio {
     box-shadow: 0 6px 0px 0 $purple-color;
 }
 
-@media screen and (max-width:1000px) {
-    .singlepiece.chrome.right, .singlepiece.iphone.left {
-        float:none;
-        max-width:100%;
-        margin:0 auto;
-    }
-}
-
 .topbar {
     height: 30px;
     border-radius: 5px 5px 0 0;
@@ -133,4 +130,12 @@ img.portfolio {
 
 .greenbutton {
     background-color:green;
+}
+
+@media screen and (max-width:1000px) {
+    .singlepiece.chrome.right, .singlepiece.iphone.left {
+        float:none;
+        max-width:100%;
+        margin:0 auto;
+    }
 }
