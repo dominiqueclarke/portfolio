@@ -3,7 +3,8 @@ layout: resume
 title: Resume
 permalink: /resume/
 ---
-## WORK EXPERIENCE
+WORK EXPERIENCE
+=====
 
 ### COMMUNITY ENGAGEMENT MANAGER, JULY 2015 - PRESENT
 
