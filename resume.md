@@ -22,9 +22,9 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 * Create 8 monthly print newsletters distributed to over 1,000 residents
 
-## COMMUNICATIONS & SPECIAL EVENTS ASSOCIATE, JUNE 2013 - MAY 2014
+### COMMUNICATIONS & SPECIAL EVENTS ASSOCIATE, JUNE 2013 - MAY 2014
 
-### MT. AIRY USA | PHILADELPHIA, PA 
+#### MT. AIRY USA | PHILADELPHIA, PA 
 
 * Manage email and social media communication for a distribution list of over 5,000 email, Twitter and Facebook subscribers 
 
@@ -34,9 +34,9 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 * Support event-planning for annual fundraiser and Street Fare, Mt. Airy’s annual street food festival drawing over 10,000 attendees
 
-## WEB MARKETING INTERN, JULY 2012 - DEC. 2012
+### WEB MARKETING INTERN, JULY 2012 - DEC. 2012
 
-### VISIT PHILADELPHIA | PHILADELPHIA,PA
+#### VISIT PHILADELPHIA | PHILADELPHIA,PA
 
 * Create a variety of written copy destined for GPTMC’s web and social media properties
 
@@ -54,6 +54,16 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 ## EDUCATION
 
-BACHELORS OF ARTS IN SOCIOLOGY, SEPT. 2010 – MAY 2014
+### BACHELORS OF ARTS IN SOCIOLOGY, SEPT. 2010 – MAY 2014
+#### UNNIVERSITY OF PENNSYLVANIA | PHILADELPHIA, PA
 
-UNNIVERSITY OF PENNSYLVANIA | PHILADELPHIA, PA
+### ADDITIONAL COURSEWORK
+
+#### Girl Develop It - Intermediate HTML & CSS
+#### Girl Develop It - Intro to Digital Project Management
+#### Girl Develop It - Building Wordpress Themes
+#### Girl Develop It - Building HTML Newsletters
+#### Philly Chi - Content Strategy 101
+#### Girl Develop It - Digital Project Mgmt
+
+####
