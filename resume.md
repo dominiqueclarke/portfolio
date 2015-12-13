@@ -105,15 +105,22 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 Girl Develop It - Intermediate HTML & CSS
 
+Girl Develop It - Building Wordpress Themes
+
 Girl Develop It - Intro to Digital Project Management
 
-Girl Develop It - Building Wordpress Themes
+Girl Develop It - Intro to User Experience
 
 Girl Develop It - Building HTML Newsletters
 
-Philly Chi - Content Strategy 101
-
-Girl Develop It - Digital Project Mgmt
+Girl Develop It - Building a Brilliant Brand
 
 Girl Develop It - Intro to SEO
+
+Girl Develop It - Intro to Web Concepts
+
+Skillcrush - Freelance Wordpress Developer Course
+
+Philly Chi - Content Strategy 101
+
 
