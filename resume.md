@@ -76,11 +76,11 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 ### LOCAL NEWS & EVENTS EDITOR, JAN. 2012 - APRIL 2012
 
-#### [CAMPUS PHILLY](http://campusphilly.org/) | PHILADELPHIA,PA
-
-* Write web content designed to promote Philly as an ideal place to live, study and work, including blog posts, event round-ups and business profiles
+#### [CAMPUS PHILLY](http://campusphilly.org/) | PHILADELPHIA, PA
 
 * Create print content for Center City East, Center City West and Fishtown/Northern Liberties sections of the Campus Philly's Student Insider Guide, distributed at over 25 area colleges to 80,000 students
+
+* Write web content designed to promote Philly as an ideal place to live, study and work, including blog posts, event round-ups and business profiles
 
 ## EDUCATION
 
