@@ -305,6 +305,13 @@ h1.name {
 }
 
 @media (max-width: 600px) {
+
+  .h2, h3, h4, p {
+    a {
+      line-height:1.5em;
+    }
+  }
+  
   .github-corner:hover .octo-arm {
     animation: none;
   }
