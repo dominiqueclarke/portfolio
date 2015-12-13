@@ -3,8 +3,10 @@ layout: resume
 title: Resume
 permalink: /resume/
 ---
-## DOMINIQUE CLARKE | JUNIOR FRONT-END DEVELOPER
+<div class="resumeintro">
+<h2>DOMINIQUE CLARKE | JUNIOR FRONT-END DEVELOPER</h2>
 <a class="btn">View my portfolio</a>
+</div>
 
 ## WORK EXPERIENCE
 
