@@ -19,7 +19,7 @@
 img.portfolio {
 	border-radius: 0 0 5px 5px;
     width:100%;
-    height:auto;
+    height:100%;
 }
 
 .portfoliodesc {
@@ -88,59 +88,6 @@ img.portfolio {
     margin: 0 auto;
     border: 4px solid #e7ebec;
     border-radius: 4px;
-}
-
-.banner {
-    position: relative;
-    background: #ff6699;
-    height: 50px;
-    width: 100%;
-    margin: 0;
-}
-
-.content {
-    position: relative;
-    background: #666699;
-    height: 40px;
-    width: 40px;
-    border-radius: 4px;
-    margin: 20px 0 0 10px;
-}
-
-.content:before {
-    content: "";
-    display: block;
-    background: #666699;
-    height: 10px;
-    width: 50px;
-    margin: 4px 0 0 50px;
-}
-
-.content:after {
-    content: "";
-    display: block;
-    background: none;
-    height: 10px;
-    width: 200px;
-    border-top: 10px solid #e7ebec;
-    border-bottom: 10px solid #e7ebec;
-    margin: 10px 0 0 50px;
-}
-
-.content-break {
-    position: relative;
-    background: #e7ebec;
-    height: 4px;
-    width: 252px;
-    margin: 30px auto 20px auto;
-}
-
-.content-photo {
-    position: relative;
-    background: #ffcccc;
-    height: 100px;
-    width: 200px;
-    margin: 20px 0 -10px 60px;
 }
 
 //chrome window
