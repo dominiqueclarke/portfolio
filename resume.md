@@ -3,10 +3,27 @@ layout: resume
 title: Resume
 permalink: /resume/
 ---
-
 ## WORK EXPERIENCE
 
-### FUNDRAISING & COMMUNICATIONS ASSOCIATE, AUG. 2014 – PRESENT
+### COMMUNITY ENGAGEMENT MANAGER, JULY 2015 - PRESENT
+
+#### ZIP CODE WILMINGTON | WILMINGTON, DE
+
+* Oversee applications for an applicant pool of over 200 each term
+
+* Create strategic partnerships with local businesses, nonprofits, school districts, and libraries
+
+* Plan and host tech meetups for Wilmington's community of learners
+
+### CO-ORGANIZER AND TEACHER, SEPTEMBER 2015 - PRESENT
+
+#### GIRL DEVELOP IT WILMINGTON | WILMINGTON, DE
+
+* Organize tech education workshops for adult women in Delaware
+
+* Teach Intro to Web Concepts to a class of 25 adult women 
+
+### FUNDRAISING & COMMUNICATIONS ASSOCIATE, AUG. 2014 – JULY 2015
 
 #### MISSION FIRST HOUSING GROUP (PHILLY FELLOWS) | PHILADELPHIA, PA
 
@@ -58,7 +75,7 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 #### UNNIVERSITY OF PENNSYLVANIA | PHILADELPHIA, PA
 
-#### ADDITIONAL COURSEWORK
+## ADDITIONAL COURSEWORK
 
 Girl Develop It - Intermediate HTML & CSS
 
