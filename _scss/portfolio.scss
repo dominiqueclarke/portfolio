@@ -33,7 +33,7 @@ img.portfolio {
     height: 50em;
     width: 100%;
     border-radius: 40px;
-    box-shadow: 0 6px 0px 0 #9999cc;
+    box-shadow: 0 6px 0px 0 $purple-color;
 }
 
 .iphone-body:before {
@@ -56,7 +56,7 @@ img.portfolio {
     background: none;
     height: 34px;
     width: 34px;
-    border: 6px solid $purple-color;
+    border: 6px solid #e7ebec;
     border-radius: 50%;
     margin: 0 auto;
 }
