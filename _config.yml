@@ -17,10 +17,9 @@ sass:
 title: Dominique Clarke
 description: Junior Front-end Developer
 email: dominiquedclarke@gmail.com
-baseurl: # the subpath of your site, e.g. /blog/
-#url: "http://yourdomain.com"
+baseurl: "http://dominiqueclarke.github.io/portfolio/"
 url: "http://dominiqueclarke.github.io/portfolio/"
-repository: "https://github.com/dominiqueclarke/portfolio"
+repository: "https://github.com/dominiqueclarke"
 disqus_shortname: 
 google_analytics: 
 
