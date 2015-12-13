@@ -3,6 +3,9 @@ layout: resume
 title: Resume
 permalink: /resume/
 ---
+## DOMINIQUE CLARKE | JUNIOR FRONT-END DEVELOPER
+<a class="btn">View my portfolio</a>
+
 ## WORK EXPERIENCE
 
 ### COMMUNITY ENGAGEMENT MANAGER, JULY 2015 - PRESENT
