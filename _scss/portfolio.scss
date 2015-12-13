@@ -6,6 +6,14 @@
     overflow:auto;
 }
 
+.singlepiece.right {
+    float:right;
+}
+
+.singlepiece.left {
+    float:left;
+}
+
 img.portfolio {
 	border-radius: 0 0 5px 5px;
     width:100%;
@@ -19,10 +27,9 @@ img.portfolio {
 //iphone 
 .iphone-body {
     position: relative;
-    background: #fff;
+    background: $white-color;
     height: 600px;
     width: 300px;
-    margin: 100px auto 100px auto;
     border-radius: 40px;
     box-shadow: 0 6px 0px 0 #9999cc;
 }
@@ -139,14 +146,7 @@ img.portfolio {
     border-radius: 10px;
     width:68%;
     height:auto;
-}
-
-.chromewindow.right {
-    float:right;
-}
-
-.chromewindow.left {
-    float:left
+    box-shadow: 0 6px 0px 0 $purple-color;
 }
 
 @media screen and (max-width:1000px) {
