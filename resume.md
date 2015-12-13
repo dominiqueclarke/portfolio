@@ -88,7 +88,7 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 ## SPEAKING ENGAGEMENTS
 
-### PANLIST, WOMEN INNOVATORS IN DELAWARE, NOV. 2015
+### PANELIST, WOMEN INNOVATORS IN DELAWARE, NOV. 2015
 
 #### DELAWARE INNOVATION WEEK | [READ MORE](http://technical.ly/delaware/2015/11/17/diw15-innovators-panel-shares-10-local-resources-to-get-more-women-in-tech/)
 
@@ -127,5 +127,7 @@ Girl Develop It - Intro to Web Concepts
 Skillcrush - Freelance Wordpress Developer Course
 
 Philly Chi - Content Strategy 101
+
+<a class="contact btn">CONTACT ME</a>
 
 
