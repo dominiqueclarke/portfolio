@@ -7,25 +7,37 @@ permalink: /resume/
 
 ### COMMUNITY ENGAGEMENT MANAGER, JULY 2015 - PRESENT
 
-#### ZIP CODE WILMINGTON | WILMINGTON, DE
+#### [ZIP CODE WILMINGTON](http://zipcodewilmington.com/) | WILMINGTON, DE
 
-* Oversee applications for an applicant pool of over 200 each term
+* Oversee applications for coding bootcamp applicant pool of over 200 each term
 
 * Create strategic partnerships with local businesses, nonprofits, school districts, and libraries
 
 * Plan and host tech meetups for Wilmington's community of learners
 
-### CO-ORGANIZER AND TEACHER, SEPTEMBER 2015 - PRESENT
+### CO-ORGANIZER AND TEACHER, SEPT 2015 - PRESENT
 
-#### GIRL DEVELOP IT WILMINGTON | WILMINGTON, DE
+#### [GIRL DEVELOP IT WILMINGTON](https://www.girldevelopit.com/chapters/wilmington) | WILMINGTON, DE
 
 * Organize tech education workshops for adult women in Delaware
 
 * Teach Intro to Web Concepts to a class of 25 adult women 
 
+### CO-ORGANIZER, JULY 2015 - NOV 2015
+
+#### [ELA CONF](http://elaconf.com/) | PHILADELPHIA, PA
+
+* Assist in planning ELA Conf, a first-time conference aimed at empowering women to become leaders in their field
+
+* Develop ELA Conf newsletter
+
+* Co-ordinate ELA Conf speakers
+
+* Organize ELA Conf after-event happy hour
+
 ### FUNDRAISING & COMMUNICATIONS ASSOCIATE, AUG. 2014 – JULY 2015
 
-#### MISSION FIRST HOUSING GROUP (PHILLY FELLOWS) | PHILADELPHIA, PA
+#### [MISSION FIRST HOUSING GROUP](http://missionfirsthousing.org/) ([PHILLY FELLOWS](https://www.google.com/search?q=phillyfellows&oq=phillyfellows&aqs=chrome..69i57j0l2.1897j0j4&sourceid=chrome&es_sm=91&ie=UTF-8)) | PHILADELPHIA, PA
 
 Placed at Mission First through Philly Fellows, a competitive fellowship program that pairs top college graduates with capacity building positions at nonprofits. 
 
@@ -41,7 +53,7 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 ### COMMUNICATIONS & SPECIAL EVENTS ASSOCIATE, JUNE 2013 - MAY 2014
 
-#### MT. AIRY USA | PHILADELPHIA, PA 
+#### [MT. AIRY USA](http://mtairyusa.org/) | PHILADELPHIA, PA 
 
 * Manage email and social media communication for a distribution list of over 5,000 email, Twitter and Facebook subscribers 
 
@@ -53,7 +65,7 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 ### WEB MARKETING INTERN, JULY 2012 - DEC. 2012
 
-#### VISIT PHILADELPHIA | PHILADELPHIA, PA
+#### [VISIT PHILADELPHIA](http://www.visitphilly.com/) | PHILADELPHIA, PA
 
 * Create a variety of written copy destined for GPTMC’s web and social media properties
 
@@ -63,7 +75,7 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 ### LOCAL NEWS & EVENTS EDITOR, JAN. 2012 - APRIL 2012
 
-#### CAMPUS PHILLY | PHILADELPHIA,PA
+#### [CAMPUS PHILLY](http://campusphilly.org/) | PHILADELPHIA,PA
 
 * Write web content designed to promote Philly as an ideal place to live, study and work, including blog posts, event round-ups and business profiles
 
@@ -88,4 +100,6 @@ Girl Develop It - Building HTML Newsletters
 Philly Chi - Content Strategy 101
 
 Girl Develop It - Digital Project Mgmt
+
+Girl Develop It - Intro to SEO
 
