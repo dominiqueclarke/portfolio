@@ -200,6 +200,14 @@ pre {
   text-align: center;
 }
 
+ul {
+  li:before {
+      content: '\2022 ';
+      color: $dark-green;
+      padding-right: 0.5em
+  }
+}
+
 .clear {
   clear:both;
   height:2em;
