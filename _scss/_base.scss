@@ -212,3 +212,10 @@ ul {
   clear:both;
   height:2em;
 }
+
+::selection {
+  background: $dark-green; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: $dark-green; /* Gecko Browsers */
+}
