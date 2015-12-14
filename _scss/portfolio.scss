@@ -14,7 +14,7 @@
 
 .singlepiece.chrome.left {
     float:left;
-    max-width:68%;
+    width:68%;
     margin-bottom:1em;
 }
 
@@ -154,6 +154,7 @@ img.portfolio {
 
     .portfoliodesc, .portfolidesc.right, .portfoliodesc.right.iphone {
         width:100%;
+        margin: 0;
     }
 
 
