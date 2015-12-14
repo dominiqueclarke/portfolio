@@ -49,7 +49,7 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 * Research potential funders and maintain ongoing donor database 
 
-* Assist in developing funding proposals and donor acknowledgements
+* Assist in developing funding proposals and donor acknowledgments
 
 * Support planning for annual fundraiser and company events
 
@@ -99,13 +99,13 @@ Placed at Mission First through Philly Fellows, a competitive fellowship program
 
 ### INTRO TO WEB CONCEPTS, 50 MINUTE LECTURE, SEPT. 2015
 
-#### WOMEN IN MEIDA SUMMIT
+#### WOMEN IN MEDIA SUMMIT
 
 ## EDUCATION
 
 ### BACHELORS OF ARTS IN SOCIOLOGY, SEPT. 2010 – MAY 2014
 
-#### UNNIVERSITY OF PENNSYLVANIA | PHILADELPHIA, PA
+#### UNIVERSITY OF PENNSYLVANIA | PHILADELPHIA, PA
 
 ## ADDITIONAL COURSEWORK
 
