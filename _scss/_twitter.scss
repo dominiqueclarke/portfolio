@@ -67,6 +67,9 @@ div.pinline {
 
 	li {
 		margin-bottom:1em;
+    &:before {
+      display:none;
+    }
 	}
 
 	a {
