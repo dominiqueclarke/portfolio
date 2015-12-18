@@ -123,7 +123,7 @@ Girl Develop It - Building a Brilliant Brand
 
 Girl Develop It - Intro to SEO
 
-Girl Develop It - Intro to Photopshop
+Girl Develop It - Intro to Photoshop
 
 Girl Develop It - Intro to Web Concepts
 
