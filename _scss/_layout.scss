@@ -44,6 +44,8 @@
   border:2px solid $purple-color;
   width:auto;
   margin:10px auto;
+  transition: all .5s ease-in-out;
+
 
   &:hover,
   &:active {
